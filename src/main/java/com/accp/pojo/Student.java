@@ -1,7 +1,7 @@
 package com.accp.pojo;
 
 /**
- * 学生实体类
+ * 学生
  */
 public class Student {
 
